@@ -9,3 +9,8 @@ This is a front-end clone of the Netflix home page, built using **HTML**, and **
 - Custom Netflix SVG logo
 - Responsive design
 - Hover effects on buttons and movie cards
+
+## Live preview
+
+Checkout the live deployed site here:
+[Click to view live] (https://daniyal203.github.io/Netflix-clone/)
